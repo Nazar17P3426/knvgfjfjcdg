@@ -1,2 +1,2 @@
-# knvgfjfjcdg.exe
-my another gdi trojan (do not install it your real pc, im not responsible for any damages.)
+# knvgfjfjcdg
+C++ short GDI trojan by Comium92
